@@ -30,7 +30,7 @@ Welcome to the comprehensive documentation of the "Money" network enhancement pr
  
 ## Topology
 
-![Topology Image](topology.jpg)
+![Topology Image](Topology.jpg)
 
 ## Contact Information
 - Shaul Kabla
