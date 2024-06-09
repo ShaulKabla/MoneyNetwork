@@ -27,6 +27,10 @@ Welcome to the comprehensive documentation of the "Money" network enhancement pr
   - Step 12: PAT + ACL
   - Step 13: Site-to-Site IPsec VPN
   - Step 14: Configure Site-Server
+ 
+## Topology
+
+![Topology Image](topology.jpg)
 
 ## Contact Information
 - Shaul Kabla
